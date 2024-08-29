@@ -11,3 +11,6 @@ This is a super basic implenentation I got bored and made over the Summer, Cellu
     Space - Start/Stop
 
 
+---
+
+![](https://github.com/judz5/conway-gol/blob/main/GOL-clip.gif)
